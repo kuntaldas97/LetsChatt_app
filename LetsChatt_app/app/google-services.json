@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "362901830743",
+    "project_id": "letschatt-604ff",
+    "storage_bucket": "letschatt-604ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362901830743:android:05034029ac6c3c9ea73712",
+        "android_client_info": {
+          "package_name": "com.example.letschatt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjt8kbV3HAkpdtPZLCFldpP3reoIQzu8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
